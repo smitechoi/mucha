@@ -1,5 +1,5 @@
 function setup(){
-    createCanvas(495,877);
+    createCanvas(495,878);
 var width=495
 var height=877
 background(170,90,40);
